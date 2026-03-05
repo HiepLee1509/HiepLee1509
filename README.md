@@ -29,7 +29,7 @@ Here are the languages, frameworks, and tools I have experience with:
 
 ### Databases & Tools
 
-* **Databases:** `MongoDB` | `MySQL` | `SQLite`
+* **Databases:** `MongoDB` | `MySQL`
 * **Tools & Platforms:** `Git` | `GitHub` | `VS Code` | `Figma`
 
 ---
