@@ -9,7 +9,7 @@ As a third-year Computer Engineering student in Hanoi University of Science and 
 ## 🙋‍♂️ About Me
 
 * 📚 **Currently Learning/Exploring:** I am focused on expanding my skills in **full-stack web and mobile application development**. My current exploration areas include **AI/Machine Learning** principles, **React Native** for cross-platform app development, and modern **CI/CD practices**.
-* * 💡 **Interests & Hobbies:** I am passionate about tackling complex problems and contributing to open-source projects.
+* 💡 **Interests & Hobbies:** I am passionate about tackling complex problems and contributing to open-source projects.
 
 ---
 
